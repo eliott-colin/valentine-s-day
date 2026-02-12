@@ -152,7 +152,7 @@ function App() {
           <div className="valentine-content">
             <div className="valentine-hearts">💕 ✨ 💕</div>
             <h1 className="valentine-title">Veux-tu être ma Valentine? 🥰</h1>
-            <p className="valentine-subtitle">Dis oui pour déverrouiller un message secret !</p>
+            <p className="valentine-subtitle">Dis oui pour déverrouiller une surprise!</p>
             
             <div className="valentine-buttons">
               <button 
